@@ -7,7 +7,7 @@ const StaticWebsitesPage = () => {
     <CommonPage
       pageTitle={`Static websites`}
       src={StaticWebsitesImage}
-      backRoute="/technical-perspectives"
+      backRoute="/complete-developers-flow-to-scraping-data"
       isButton={true}
       buttonRoute="/static-websites-sequence-diagram"
       buttonTitle="Sequence Process"
