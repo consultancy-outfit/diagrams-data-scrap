@@ -5,7 +5,7 @@ import React from "react";
 const StaticWebsitesSequenceDiagramPage = () => {
   return (
     <CommonPage
-      pageTitle={`Static websites sequence diagram`}
+      pageTitle={`Non Technical Scrapping flow`}
       src={StaticWebsitesSequenceDiagramImage}
       backRoute="/static-websites"
     />

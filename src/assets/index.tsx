@@ -11,7 +11,17 @@ export { default as img3ScopeOfRegistrationImage } from "./img3ScopeOfRegistrati
 
 export { default as AntiBotProtectionImage } from "./AntiBotProtectionImage.svg";
 export { default as SequenceDiagramAntiBotProtectionImage } from "./SequenceDiagramAntiBotProtectionImage.svg";
-export { default as StaticWebsitesImage } from "./StaticWebsitesImage.svg";
-export { default as StaticWebsitesSequenceDiagramImage } from "./StaticWebsitesSequenceDiagramImage.svg";
+
 export { default as DynamicWebsitesImage } from "./DynamicWebsites.svg";
 export { default as FullDeveloperOrientedFlowForDynamicWebsiteScrapingImage } from "./FullDeveloperOrientedFlowForDynamicWebsiteScrapingImage.svg";
+
+
+
+export { default as StaticWebsitesImage } from "./StaticWebsitesImage.svg";
+export { default as StaticWebsitesSequenceDiagramImage } from "./StaticWebsitesSequenceDiagramImage.svg";
+
+export { default as StaticWebsitesImage1 } from "./StaticWebsitesImage1.svg";
+export { default as StaticWebsitesSequenceDiagramImage1 } from "./StaticWebsitesSequenceDiagramImage1.svg";
+
+export { default as StaticWebsitesImage2 } from "./StaticWebsitesImage2.svg";
+export { default as StaticWebsitesSequenceDiagramImage2 } from "./StaticWebsitesSequenceDiagramImage2.svg";

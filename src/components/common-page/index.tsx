@@ -34,8 +34,8 @@ const CommonPage: React.FC<CommonPageProps> = ({
   return (
     <Box p={{ md: 3, xs: 2 }}>
       <Stack
-        flexDirection="row"
-        alignItems="center"
+        flexDirection={ { xs: "column", sm: "row" }}
+        alignItems={ { xs: "flex-start", sm: "center" }}
         justifyContent="space-between"
         mt={{ md: 2, xs: 1 }}
         mb={{ md: 4, sm: 3, xs: 2 }}
@@ -50,6 +50,7 @@ const CommonPage: React.FC<CommonPageProps> = ({
             style={{ cursor: "pointer" }}
           />
           <Typography
+          
             variant="h5"
             color="#5A5867"
             fontSize={{ xs: "0.8rem", sm: "18px", md: "22px" }}
@@ -63,6 +64,7 @@ const CommonPage: React.FC<CommonPageProps> = ({
 
         {isButton && (
           <Button
+          onClick={() => router.push(buttonRoute)}
             sx={{
               backgroundColor: "#5A5867",
               color: "#FFFFFF",
@@ -70,11 +72,13 @@ const CommonPage: React.FC<CommonPageProps> = ({
                 backgroundColor: "#4A4857",
               },
               cursor: "pointer",
-              fontSize: { xs: "16px", md: "24px" },
+              fontSize: { xs: "16px", md: "20px" },
               fontWeight: "semibold",
               textTransform: "capitalize",
               fontFamily: "Outfit, inherit",
+              mt: { xs: 2, sm: 0 },
             }}
+          
             variant="contained"
           >
             {buttonTitle}
