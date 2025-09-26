@@ -5,9 +5,9 @@ import React from "react";
 const StaticWebsitesPage = () => {
   return (
     <CommonPage
-      pageTitle={`Static websites`}
+      pageTitle={`Non Technical`}
       src={StaticWebsitesImage}
-      backRoute="/complete-developers-flow-to-scraping-data"
+      backRoute="/"
       isButton={true}
       buttonRoute="/static-websites-sequence-diagram"
       buttonTitle="Sequence Process"

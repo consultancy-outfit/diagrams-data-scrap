@@ -24,7 +24,7 @@ const CompleteDevelopersflowtoScrapingdataPage = () => {
     <CommonBoxPage
       mainTitle="Complete Developer's flow to Scraping data"
       arrayData={arrayData}
-      backRoute='/complete-developers-flow-to-scraping-data'
+      backRoute='/'
     />
   );
 };

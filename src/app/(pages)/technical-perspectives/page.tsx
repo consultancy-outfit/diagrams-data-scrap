@@ -7,14 +7,14 @@ import { TechnicalPerspectivesImage1, TechnicalPerspectivesImage2, TechnicalPers
 const arrayData = [
   {
     "key": "technical-perspectives-1",
-    "link": "/dynamic-websites1",
+    "link": "/static-websites1",
     "icon": TechnicalPerspectivesImage1,
     "bgColor": "#16853F",
     "title": "Static Website "
   },
   {
     "key": "technical-perspectives-2",
-    "link": "/api-based-websites",
+    "link": "/static-websites2",
     "icon": TechnicalPerspectivesImage2,
     "bgColor": "#16853F",
     "title": "API Based Websites "
@@ -35,7 +35,7 @@ const arrayData = [
   },
   {
     "key": "technical-perspectives-5",
-    "link": "/dynamic-website",
+    "link": "/dynamic-websites",
     "icon": TechnicalPerspectivesImage5,
     "bgColor": "#16853F",
     "title": "Dynamic Website"
@@ -68,7 +68,7 @@ const TechnicalPerspectivesPage = () => {
     <CommonBoxPage
       mainTitle="Technical Perspectives"
       arrayData={arrayData}
-      backRoute='/complete-developers-flow-to-scraping-data'
+      backRoute='/'
     />
   );
 };
