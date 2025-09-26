@@ -6,7 +6,8 @@ const assetsDir = path.join(__dirname, "src", "assets");
 const indexTsxPath = path.join(assetsDir, "index.tsx");
 
 const pages = [
-  { name: "Static websites sequence diagram", backRoute: "/static-websites" },
+  { name: "Complete Developers flow to Scraping API Based Websites", backRoute: "/Technical Perspectives" },
+  { name: "API Based Website", backRoute: "/Complete Developers flow to Scraping API Based Websites" },
 ];
 
 const toPascalCase = (str) =>
