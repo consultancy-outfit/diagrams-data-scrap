@@ -45,3 +45,5 @@ export { default as WebsitesWithPaginationInfiniteScrollImage } from "./Websites
 export { default as WebsitesWithPaginationInfiniteScrollImage1 } from "./WebsitesWithPaginationInfiniteScrollImage1.svg";
 export { default as DeepWebHiddenContentImage } from "./DeepWebHiddenContentImage.svg";
 export { default as FullDeveloperOrientedFlowForDeepWebHiddenContentImage } from "./FullDeveloperOrientedFlowForDeepWebHiddenContentImage.svg";
+export { default as SinglePage } from "./SinglePage.svg";
+export { default as SinglePage1 } from "./SinglePage1.svg";
