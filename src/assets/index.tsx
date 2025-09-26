@@ -15,3 +15,5 @@ export { default as StaticWebsitesImage } from "./StaticWebsitesImage.svg";
 export { default as StaticWebsitesSequenceDiagramImage } from "./StaticWebsitesSequenceDiagramImage.svg";
 export { default as DynamicWebsitesImage } from "./DynamicWebsites.svg";
 export { default as FullDeveloperOrientedFlowForDynamicWebsiteScrapingImage } from "./FullDeveloperOrientedFlowForDynamicWebsiteScrapingImage.svg";
+export { default as diagramImage } from "./diagarmImage.svg";
+export { default as SequenceDiagramStaticWebsiteScraping } from "./SequenceDiagramStaticWebsiteScraping.svg";
