@@ -15,6 +15,8 @@ export { default as StaticWebsitesImage } from "./StaticWebsitesImage.svg";
 export { default as StaticWebsitesSequenceDiagramImage } from "./StaticWebsitesSequenceDiagramImage.svg";
 export { default as DynamicWebsitesImage } from "./DynamicWebsites.svg";
 export { default as FullDeveloperOrientedFlowForDynamicWebsiteScrapingImage } from "./FullDeveloperOrientedFlowForDynamicWebsiteScrapingImage.svg";
+export { default as CompleteDevelopersFlowToScrapingApiBasedWebsitesImage } from "./CompleteDevelopersFlowToScrapingApiBasedWebsitesImage.svg";
+export { default as ApiBasedWebsiteImage } from "./ApiBasedWebsiteImage.svg";
 export { default as CompleteDevelopersflowtoScrapingdataImage1 } from "./CompleteDevelopersflowtoScrapingdataImage1.svg";
 export { default as CompleteDevelopersflowtoScrapingdataImage2 } from "./CompleteDevelopersflowtoScrapingdataImage2.svg";
 export { default as TechnicalPerspectivesImage1 } from "./TechnicalPerspectivesImage1.svg";
