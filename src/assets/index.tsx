@@ -25,3 +25,19 @@ export { default as StaticWebsitesSequenceDiagramImage1 } from "./StaticWebsites
 
 export { default as StaticWebsitesImage2 } from "./StaticWebsitesImage2.svg";
 export { default as StaticWebsitesSequenceDiagramImage2 } from "./StaticWebsitesSequenceDiagramImage2.svg";
+export { default as CompleteDevelopersflowtoScrapingdataImage1 } from "./CompleteDevelopersflowtoScrapingdataImage1.svg";
+export { default as CompleteDevelopersflowtoScrapingdataImage2 } from "./CompleteDevelopersflowtoScrapingdataImage2.svg";
+export { default as TechnicalPerspectivesImage1 } from "./TechnicalPerspectivesImage1.svg";
+export { default as TechnicalPerspectivesImage2 } from "./TechnicalPerspectivesImage2.svg";
+export { default as TechnicalPerspectivesImage3 } from "./TechnicalPerspectivesImage3.svg";
+export { default as TechnicalPerspectivesImage4 } from "./TechnicalPerspectivesImage4.svg";
+export { default as TechnicalPerspectivesImage5 } from "./TechnicalPerspectivesImage5.svg";
+export { default as TechnicalPerspectivesImage6 } from "./TechnicalPerspectivesImage6.svg";
+export { default as TechnicalPerspectivesImage7 } from "./TechnicalPerspectivesImage7.svg";
+export { default as TechnicalPerspectivesImage8 } from "./TechnicalPerspectivesImage8.svg";
+export { default as diagramImage } from "./diagarmImage.svg";
+export { default as SequenceDiagramStaticWebsiteScraping } from "./SequenceDiagramStaticWebsiteScraping.svg";
+export { default as WebsitesWithPaginationInfiniteScrollImage } from "./WebsitesWithPaginationInfiniteScrollImage.svg";
+export { default as WebsitesWithPaginationInfiniteScrollImage1 } from "./WebsitesWithPaginationInfiniteScrollImage1.svg";
+export { default as DeepWebHiddenContentImage } from "./DeepWebHiddenContentImage.svg";
+export { default as FullDeveloperOrientedFlowForDeepWebHiddenContentImage } from "./FullDeveloperOrientedFlowForDeepWebHiddenContentImage.svg";
