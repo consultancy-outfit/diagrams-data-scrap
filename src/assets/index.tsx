@@ -17,3 +17,7 @@ export { default as DynamicWebsitesImage } from "./DynamicWebsites.svg";
 export { default as FullDeveloperOrientedFlowForDynamicWebsiteScrapingImage } from "./FullDeveloperOrientedFlowForDynamicWebsiteScrapingImage.svg";
 export { default as diagramImage } from "./diagarmImage.svg";
 export { default as SequenceDiagramStaticWebsiteScraping } from "./SequenceDiagramStaticWebsiteScraping.svg";
+export { default as WebsitesWithPaginationInfiniteScrollImage } from "./WebsitesWithPaginationInfiniteScrollImage.svg";
+export { default as WebsitesWithPaginationInfiniteScrollImage1 } from "./WebsitesWithPaginationInfiniteScrollImage1.svg";
+export { default as DeepWebHiddenContentImage } from "./DeepWebHiddenContentImage.svg";
+export { default as FullDeveloperOrientedFlowForDeepWebHiddenContentImage } from "./FullDeveloperOrientedFlowForDeepWebHiddenContentImage.svg";
