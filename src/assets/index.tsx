@@ -25,3 +25,9 @@ export { default as TechnicalPerspectivesImage5 } from "./TechnicalPerspectivesI
 export { default as TechnicalPerspectivesImage6 } from "./TechnicalPerspectivesImage6.svg";
 export { default as TechnicalPerspectivesImage7 } from "./TechnicalPerspectivesImage7.svg";
 export { default as TechnicalPerspectivesImage8 } from "./TechnicalPerspectivesImage8.svg";
+export { default as diagramImage } from "./diagarmImage.svg";
+export { default as SequenceDiagramStaticWebsiteScraping } from "./SequenceDiagramStaticWebsiteScraping.svg";
+export { default as WebsitesWithPaginationInfiniteScrollImage } from "./WebsitesWithPaginationInfiniteScrollImage.svg";
+export { default as WebsitesWithPaginationInfiniteScrollImage1 } from "./WebsitesWithPaginationInfiniteScrollImage1.svg";
+export { default as DeepWebHiddenContentImage } from "./DeepWebHiddenContentImage.svg";
+export { default as FullDeveloperOrientedFlowForDeepWebHiddenContentImage } from "./FullDeveloperOrientedFlowForDeepWebHiddenContentImage.svg";
