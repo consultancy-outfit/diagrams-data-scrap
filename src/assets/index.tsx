@@ -47,3 +47,4 @@ export { default as DeepWebHiddenContentImage } from "./DeepWebHiddenContentImag
 export { default as FullDeveloperOrientedFlowForDeepWebHiddenContentImage } from "./FullDeveloperOrientedFlowForDeepWebHiddenContentImage.svg";
 export { default as SinglePage } from "./SinglePage.svg";
 export { default as SinglePage1 } from "./SinglePage1.svg";
+export { default as APIBasedWebsites } from "./APIBasedWebsites.svg";

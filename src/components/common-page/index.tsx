@@ -14,6 +14,7 @@ interface CommonPageProps {
   onChange?: (selectedValue: string, page: string) => void;
   isButton?: boolean;
   buttonRoute?: string;
+  isCheckbox?: boolean;
 }
 
 const CommonPage: React.FC<CommonPageProps> = ({
@@ -24,6 +25,7 @@ const CommonPage: React.FC<CommonPageProps> = ({
   buttonTitle = "Sequence Process",
   isButton = false,
   buttonRoute = "/",
+  isCheckbox = false,
 }) => {
   const router = useRouter();
 
@@ -85,9 +87,9 @@ const CommonPage: React.FC<CommonPageProps> = ({
           </Button>
         )}
       </Stack>
-      <Box mb={{ md: 4, sm: 3, xs: 2 }}>
+     {isCheckbox && <Box mb={{ md: 4, sm: 3, xs: 2 }}>
         <CheckboxForm onChange={onChange} />
-      </Box>
+      </Box>}
       <Image
         src={src}
         alt={pageTitle}

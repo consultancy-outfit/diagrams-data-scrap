@@ -1,4 +1,4 @@
-import { StaticWebsitesImage1 } from "@/assets";
+import { APIBasedWebsites } from "@/assets";
 import { CommonPage } from "@/components";
 import React from "react";
 
@@ -6,7 +6,7 @@ const StaticWebsitesPage = () => {
   return (
     <CommonPage
       pageTitle={`API Based Website`}
-      src={StaticWebsitesImage1}
+      src={APIBasedWebsites}
       backRoute="/technical-perspectives"
       isButton={true}
       buttonRoute="/static-websites-sequence-diagram1"
